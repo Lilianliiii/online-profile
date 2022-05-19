@@ -9,3 +9,9 @@ import "channels"
 
 Rails.start()
 Turbolinks.start()
+
+require("@rails/ujs").start()
+require("turbolinks").start()
+require("@rails/activestorage").start()
+require("channels")
+import "stylesheets/application"
