@@ -15,7 +15,7 @@ module.exports = {
         main: ['Oxygen', ...defaultTheme.fontFamily.sans],
       },
       colors: {
-        'bbyblue': '#D6E5FA',
+        'neediegreen': '#39AEA9',
       },
     },
     variants: {
